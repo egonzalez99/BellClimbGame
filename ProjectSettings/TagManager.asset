@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Barrier
+  - Enemy
+  - Boundary
+  - Spawner
+  - Bell
   layers:
   - Default
   - TransparentFX
