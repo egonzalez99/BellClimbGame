@@ -12,11 +12,11 @@ Gameplay:
 
 **Features:**
 
--Dynamic camera tracking: Experience seamless gameplay with the camera dynamically following your character's movements.
+- Dynamic camera tracking: Experience seamless gameplay with the camera dynamically following your character's movements.
 
--Six-axis movement: Enjoy fluid movement controls allowing you to traverse left, right, up, down, and diagonally across the screen.
+- Six-axis movement: Enjoy fluid movement controls allowing you to traverse left, right, up, down, and diagonally across the screen.
 
--Object destruction: Avoid obstacles in your path to clear the way to the bell. They will be destroyed off - screen.
+- Object destruction: Avoid obstacles in your path to clear the way to the bell. They will be destroyed off - screen.
 
 **How to Play:**
 
