@@ -5,7 +5,7 @@ Welcome to **Bell Climber**, an exciting 2D Unity game where your goal is to rea
 Gameplay:
 
 - Navigate through the obstacles: Dodge moving obstacles and strategically maneuver around walls to progress towards the bell.
-- 
+  
 - Reach the bell: Your ultimate objective is to successfully reach the bell located at the top of the screen.
 
 - Beware of hazards: Colliding with obstacles or walls will result in the end of the game.
